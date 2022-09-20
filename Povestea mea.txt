@@ -52,6 +52,7 @@ Un ocean se-mbată pe-al vânturilor joc,
 Şi norii-şi spun în tunet durerea lor mugindă,
 Gândirile de foc.
 
+// TO DO:  to add some extra lines in the feature release
 Atât de fragedă...
 
 Atât de fragedă, te-asameni
